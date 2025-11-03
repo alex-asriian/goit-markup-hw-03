@@ -251,7 +251,7 @@ img {
   /*border: solid black 2px;*/
   border-radius: 0 0 4px 4px;
   padding: 0px 0px 32px;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .person-card {
   padding: 32px 0;
@@ -293,7 +293,7 @@ img {
   color: #434455;
 }
 .portfolio-list-item {
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 /*#endregion our-portfolio*/
